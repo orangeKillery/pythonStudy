@@ -1,0 +1,7 @@
+{
+    "python.linting.flake8Enabled": true,
+
+    "python.formatting.provider":"yapf",
+
+    "editor.fonSize":18
+}
